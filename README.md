@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Sarah (@sarahdavis6982)
 
-<!--
-**sarahdavis6982/sarahdavis6982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in San Francisco, currently working on platform services at Tech Labs. Mostly spending time writing Go and Python, optimizing database queries, and keeping latency low.
 
-Here are some ideas to get you started:
+#### What I work with
+- **Languages:** Go, Python, SQL
+- **Frameworks & Tools:** FastAPI, PostgreSQL, Redis, Docker
+- **Interests:** Distributed systems, query optimization, high-throughput APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently
+- Deepening knowledge around PostgreSQL internals and index tuning
+- Building small network tools in Go on weekends
+
+#### Reach out
+- Email: sarah.davis.dev@proton.me
+- LinkedIn: linkedin.com/in/sarahdavis-backend
+- Website: sarahdavis.dev
